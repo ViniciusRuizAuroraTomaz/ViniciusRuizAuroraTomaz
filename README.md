@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi I'm Vini
 
-<!--
-**ViniciusRuizAuroraTomaz/ViniciusRuizAuroraTomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a future Full-stack developer, currently studying JavaScript on Backend
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Frontend*
+ - HTML
+ - CSS
+ - JS
+ - React (learning)
+ - Typescript (learning)
+
+*Backend*
+- Express.js
+- Node.js
+- Zod
+- SQL
+- Sqlite
+
