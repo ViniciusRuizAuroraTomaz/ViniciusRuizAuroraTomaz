@@ -1,6 +1,6 @@
 ## Hi I'm Vini
 
-I'm a future Full-stack developer, currently studying JavaScript on Backend
+I'm a future Full-stack developer, currently studying TypeScript on Backend
 
 ### Technologies
 
@@ -15,6 +15,7 @@ I'm a future Full-stack developer, currently studying JavaScript on Backend
 - Express.js
 - Node.js
 - Zod
-- SQL
+- Postgres
 - Sqlite
+- Prisma
 
